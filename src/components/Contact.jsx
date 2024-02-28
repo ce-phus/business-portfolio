@@ -29,8 +29,8 @@ const Contact = () => {
     setLoading(true);
 
     emailjs.send(
-      "service_a1zy7jm ",
-      "template_cok6gum ",
+      "service_a1zy7jm",
+      "template_cok6gum",
       {
         from_name: form.name,
         to_name: "Cephus",
