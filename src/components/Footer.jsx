@@ -14,7 +14,7 @@ const Footer = () => {
                 alt='logo'
                 className='w-[206px] h-[202px] object-contain'/>
                 <p className={`${styles.paragraph} mt-4 max-w-[310px]`}>
-                Ready to make User-friendly and appealing webistes
+                Ready to make User-friendly and appealing websites
                     </p>
             </div>
         </div>
