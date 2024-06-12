@@ -48,7 +48,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in JavaScript and Python, and expertise in frameworks like React, Vite, Nextjs13, Three.js Django and DjangoRestFramework. I'm quick learner and collaborate closely with clients to create efficient, scalable and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life
+        I'm Nakitare Peter Koinange, a skilled software developer with experience in JavaScript and Python, and expertise in frameworks like React, Vite, Nextjs13, Three.js and Django; with adept knowledge in working with RESTFUL APIs and Redux for dynamic websites for state application. I'm quick learner and collaborate closely with clients to create efficient, scalable and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life
         </motion.p>
 
 <div className='mt-20 flex flex-wrap gap-10'>

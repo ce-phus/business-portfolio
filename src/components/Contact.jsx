@@ -15,7 +15,6 @@ const Contact = () => {
     message: ""
   })
 
-  // service_a1zy7jm  template_cok6gum   f-bpLWGmjIRuy7I4B
 
   const [loading, setLoading] =useState(false)
 
@@ -128,4 +127,4 @@ const Contact = () => {
   );
 };
 
-export default SectionWrapper(Contact, "contact");
+export default SectionWrapper(Contact, "contact"); 
