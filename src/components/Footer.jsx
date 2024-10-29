@@ -23,14 +23,25 @@ const Footer = () => {
         2024 cephusluke@gmail.com. All Rights Reserved
       </p>
     </div>
-    <div className='flex flex-row md:mt-0 mt-6'>{socialMedia.map((social, index)=>(
-      <img
+    <div className='flex flex-row md:mt-0 mt-6'>
+  {socialMedia.map((social, index) => (
+    <a
       key={social.id}
-      src={social.icon}
-      alt={social.id}
-      className={`w-[21px] h-[21px] object-contain cursor-pointer ${index !== socialMedia.length -1 ?'mr-6': 'mr-0' }`}
+      href={social.link}
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img
+        src={social.icon}
+        alt={social.id}
+        className={`w-[21px] h-[21px] object-contain cursor-pointer ${
+          index !== socialMedia.length - 1 ? 'mr-6' : 'mr-0'
+        }`}
       />
-    ))}</div>
+    </a>
+  ))}
+</div>
+
     </section>
   )
 }

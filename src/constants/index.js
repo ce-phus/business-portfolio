@@ -246,12 +246,12 @@ import {
     {
       id: "social-media-1",
       icon: instagram,
-      link: "https://www.instagram.com/",
+      link: "https://www.instagram.com/cephus_ltd/profilecard/?igsh=dmViaW1sd3E4YTRk",
     },
     {
       id: "social-media-2",
       icon: facebook,
-      link: "https://www.facebook.com/",
+      link: "https://www.facebook.com/profile.php?id=61566025144308",
     },
     {
       id: "social-media-3",
@@ -261,7 +261,7 @@ import {
     {
       id: "social-media-4",
       icon: linkedin,
-      link: "https://www.linkedin.com/",
+      link: "https://linkedin.com/in/peter-nakitare-315840226/",
     },
   ];
   
