@@ -196,7 +196,7 @@ import {
         },
       ],
       image: eshop,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/ce-phus/FullStack-eshop",
     },
     {
       name: "Bank App",
@@ -217,7 +217,7 @@ import {
         },
       ],
       image: hoobank,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://cephushoobank.netlify.app/",
     },
     {
       name: "Modern Farm App",
@@ -238,7 +238,7 @@ import {
         },
       ],
       image: oiti,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://oitifarms.netlify.app",
     },
   ];
 
